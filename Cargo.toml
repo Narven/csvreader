@@ -1,0 +1,8 @@
+[package]
+name = "csvreader"
+version = "0.1.0"
+edition = "2021"
+authors = ["Pedro Luz <pedromsluz@gmail.com>"]
+
+[dependencies]
+csv = "1.3.0"
